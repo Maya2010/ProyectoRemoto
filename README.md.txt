@@ -1,2 +1,2 @@
 # ProyectoRemoto README
-Este es mi primer Projecto Remo
+Este es mi primer Projecto Remoto
